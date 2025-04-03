@@ -21,12 +21,11 @@ The goal of this project was to analyze customer purchasing behavior using SQL e
 
 ## 📊 Key Insights
 
-- **Top Purchase Categories:** Luxury Electronics, Home Appliances, and Fitness Equipment had the highest average purchase amounts.
+- **Top Purchase Categories:** Software & Apps, Jewelry & Accessories, and Books had the highest average purchase amounts.
 - **Income vs Spending:** High- and middle-income customers showed nearly identical average spend, indicating opportunity for similar targeting.
 - **Social Media Influence:** Middle-aged consumers (35–44) were most influenced by social media, more than even younger users.
 - **Shopping Channels:** Most users engaged with a mixed (online + in-store) channel strategy.
 - **Device & Decision Time:** Mobile users took the longest to decide, signaling possible friction in the mobile UX flow.
-- **Return Rate & Ratings:** Lower product ratings correlated with higher return rates.
 
 ---
 
@@ -36,7 +35,6 @@ The goal of this project was to analyze customer purchasing behavior using SQL e
 - Target both high- and middle-income groups with bundled offers or loyalty incentives.
 - Improve mobile shopping experience through UX audits and streamlined checkout.
 - Use social media strategically to reach and engage 35–44-year-olds.
-- Address quality issues in low-rated, high-return products.
 
 ---
 
